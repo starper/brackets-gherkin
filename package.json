@@ -1,0 +1,12 @@
+{
+    "name": "brackets-gherkin",
+    "title": "Gherkin Syntax Highlighting for Brackets",
+    "homepage": "https://github.com/starper/brackets-gherkin",
+    "description": "Provides Gherkin syntax highlighting.",
+    "version": "0.1.0",
+    "author": "Starper",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.31.0"
+    }
+}
